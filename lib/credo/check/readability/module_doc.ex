@@ -2,7 +2,7 @@ defmodule Credo.Check.Readability.ModuleDoc do
   @moduledoc """
   Every module should contain comprehensive documentation.
 
-  Many times a sentence or two in plain english, explaining why the module
+  Many times a sentence or two in plain English, explaining why the module
   exists, will suffice. Documenting your train of thought this way will help
   both your co-workers and your future-self.
 
